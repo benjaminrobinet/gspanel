@@ -1,0 +1,78 @@
+2016-04-11 20:00:18 [INFO] Starting minecraft server version 1.6.1
+2016-04-11 20:00:18 [INFO] Loading properties
+2016-04-11 20:00:18 [WARNING] server.properties does not exist
+2016-04-11 20:00:18 [INFO] Generating new properties file
+2016-04-11 20:00:18 [INFO] Default game type: SURVIVAL
+2016-04-11 20:00:18 [INFO] Generating keypair
+2016-04-11 20:00:18 [INFO] Starting Minecraft server on *:25565
+2016-04-11 20:00:19 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Le fichier spécifié est introuvable)
+2016-04-11 20:00:19 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Le fichier spécifié est introuvable)
+2016-04-11 20:00:19 [INFO] Preparing level "world"
+2016-04-11 20:00:19 [INFO] Preparing start region for level 0
+2016-04-11 20:00:20 [INFO] Preparing spawn area: 17%
+2016-04-11 20:00:21 [INFO] Preparing spawn area: 35%
+2016-04-11 20:00:22 [INFO] Preparing spawn area: 49%
+2016-04-11 20:00:23 [INFO] Preparing spawn area: 57%
+2016-04-11 20:00:24 [INFO] Preparing spawn area: 62%
+2016-04-11 20:00:25 [INFO] Preparing spawn area: 68%
+2016-04-11 20:00:26 [INFO] Preparing spawn area: 75%
+2016-04-11 20:00:27 [INFO] Preparing spawn area: 81%
+2016-04-11 20:00:28 [INFO] Preparing spawn area: 92%
+2016-04-11 20:00:29 [INFO] Done (10,442s)! For help, type "help" or "?"
+2016-04-11 20:00:46 [INFO] Stopping server
+2016-04-11 20:00:46 [INFO] Closing listening thread
+2016-04-11 20:00:46 [INFO] Saving players
+2016-04-11 20:00:46 [INFO] Saving worlds
+2016-04-11 20:00:46 [INFO] Saving chunks for level 'world'/Overworld
+2016-04-11 20:00:47 [INFO] Saving chunks for level 'world'/Nether
+2016-04-11 20:00:47 [INFO] Saving chunks for level 'world'/The End
+2016-04-11 20:00:47 [INFO] Stopping server
+2016-04-11 20:01:28 [INFO] Starting minecraft server version 1.6.1
+2016-04-11 20:01:28 [INFO] Loading properties
+2016-04-11 20:01:28 [INFO] Default game type: SURVIVAL
+2016-04-11 20:01:28 [INFO] Generating keypair
+2016-04-11 20:01:28 [INFO] Starting Minecraft server on *:25565
+2016-04-11 20:01:28 [INFO] Preparing level "world"
+2016-04-11 20:01:29 [INFO] Preparing start region for level 0
+2016-04-11 20:01:29 [INFO] Done (0,752s)! For help, type "help" or "?"
+2016-04-11 20:01:36 [INFO] Stopping server
+2016-04-11 20:01:36 [INFO] Saving players
+2016-04-11 20:01:36 [INFO] Saving worlds
+2016-04-11 20:01:36 [INFO] Saving chunks for level 'world'/Overworld
+2016-04-11 20:01:36 [INFO] Closing listening thread
+2016-04-11 20:01:36 [INFO] Saving chunks for level 'world'/Nether
+2016-04-11 20:01:36 [INFO] Saving chunks for level 'world'/The End
+2016-04-11 20:01:37 [INFO] Stopping server
+2016-04-11 20:05:25 [INFO] Starting minecraft server version 1.2
+2016-04-11 20:05:25 [INFO] Loading properties
+2016-04-11 20:05:25 [INFO] Starting Minecraft server on *:25565
+2016-04-11 20:05:25 [INFO] Preparing level "world"
+2016-04-11 20:05:25 [INFO] Default game type: 0
+2016-04-11 20:05:25 [INFO] Preparing start region for level 0
+2016-04-11 20:05:25 [INFO] Done (421776657ns)! For help, type "help" or "?"
+2016-04-11 20:05:56 [INFO] To run the server without a gui, start it like this:
+2016-04-11 20:05:56 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2016-04-11 20:05:56 [INFO] Console commands:
+2016-04-11 20:05:56 [INFO]    help  or  ?               shows this message
+2016-04-11 20:05:56 [INFO]    kick <player>             removes a player from the server
+2016-04-11 20:05:56 [INFO]    ban <player>              bans a player from the server
+2016-04-11 20:05:56 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2016-04-11 20:05:56 [INFO]    ban-ip <ip>               bans an IP address from the server
+2016-04-11 20:05:56 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2016-04-11 20:05:56 [INFO]    op <player>               turns a player into an op
+2016-04-11 20:05:56 [INFO]    deop <player>             removes op status from a player
+2016-04-11 20:05:56 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2016-04-11 20:05:56 [INFO]    give <player> <id> [num]  gives a player a resource
+2016-04-11 20:05:56 [INFO]    tell <player> <message>   sends a private message to a player
+2016-04-11 20:05:56 [INFO]    stop                      gracefully stops the server
+2016-04-11 20:05:56 [INFO]    save-all                  forces a server-wide level save
+2016-04-11 20:05:56 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2016-04-11 20:05:56 [INFO]    save-on                   re-enables terrain saving
+2016-04-11 20:05:56 [INFO]    list                      lists all currently connected players
+2016-04-11 20:05:56 [INFO]    say <message>             broadcasts a message to all players
+2016-04-11 20:05:56 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2016-04-11 20:05:56 [INFO]    gamemode <player> <mode>  sets player's game mode (0 or 1)
+2016-04-11 20:06:12 [INFO] Stopping server
+2016-04-11 20:06:12 [INFO] Saving chunks
+2016-04-11 20:06:12 [INFO] Saving chunks
+2016-04-11 20:06:12 [INFO] Saving chunks

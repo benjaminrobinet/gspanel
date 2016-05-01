@@ -1,0 +1,19 @@
+{
+	"mysql": [
+	    {
+	    	"host": "publicsql-1.pulseheberg.net",
+	    	"user": "service_44317",
+	    	"password": "3MlF8tl92w",
+	    	"database": "service_44317"
+	    }
+	],
+	"token": "Wp4zUU2337o14P0K674Hawuz9IMI074r",
+	"url": "http://manager/validate.php?token=vQ2q4q3dsLrnFsXf8AMFSKEZj3N2s5Ub",
+	"games": [
+		{
+			"minecraft": "java",
+			"garry's mod": "srcds",
+			"samp": "samp_srv"
+		}
+	]
+}
